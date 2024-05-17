@@ -1,17 +1,19 @@
 h1 {
-	background-color: #808080;
-	width: 500px;
-	height: 700px;
-    color: white;
+	color: white;
 }
 div {
-	background-color: #fea500;
+	background-color: #c78d36;
+	
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+.big {
+	width: 300px;
+	height: 800px;
+}
+.in {
+	background-color: #1d1913;
 	width: 150px;
 	height: 150px;
-    /* width: 20%;
-    height: 20%; */
- 
-  
-    margin-bottom: 10px;
-    margin-left: 20px;
 }
